@@ -5,6 +5,6 @@ Has a simple Playback bar with Start/Stop button and shows the duration of the f
 
 <img src="https://raw.githubusercontent.com/parthnan/MusicLibraryApp-Android/master/images/permissions.png" width="300px" align="middle">
 
-After you give it necesscary permissions, Enjoy!
+After you give it the necesscary permissions, Enjoy!
 
 <img src="https://raw.githubusercontent.com/parthnan/MusicLibraryApp-Android/master/images/musicscreen.png" width="300px" align="middle">
