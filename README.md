@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/parthnan/MusicLibraryApp-Android.svg)](http://hits.dwyl.com/parthnan/MusicLibraryApp-Android)
 # MusicLibraryApp-Android
 A music library app with a simple and uncomplicated UI. Plays music(.mp3) files and has all the essential features you need in a Music Player! 
 
