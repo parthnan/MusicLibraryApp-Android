@@ -12,3 +12,4 @@ Using and debugging Multithreading to handle the logic of the Playback bar and a
 After you give it the necesscary permissions, Enjoy!
 
 <img src="https://raw.githubusercontent.com/parthnan/MusicLibraryApp-Android/master/images/musicscreen.png" width="300px" align="middle">
+   
